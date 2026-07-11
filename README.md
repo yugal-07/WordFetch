@@ -1,6 +1,6 @@
 # WordFetch
 
-Look up word definitions instantly — just select a word and hit a hotkey. No copying, no browser, no fuss.
+Look up word definitions instantly — just select a word and hit a hotkey.
 
 ## How it works
 
