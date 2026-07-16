@@ -10,7 +10,7 @@ Look up word definitions instantly — just select a word and hit a hotkey.
 
 That's it. WordFetch reads from your primary selection (the middle-click clipboard), looks up the word via the [Free Dictionary API](https://dictionaryapi.dev/), and pops a desktop notification with the result.
 
-![WordFetch notification](screenshot.png)
+![WordFetch notification](ss.png)
 
 ## Installation
 
